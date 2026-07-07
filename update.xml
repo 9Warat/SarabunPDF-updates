@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- SarabunPDF update feed (AutoUpdater.NET). Bump <version> + <url> for each release. -->
 <item>
-  <version>3.1.0.0</version>
+  <version>3.2.0.0</version>
   <url>https://github.com/9Warat/SarabunPDF-updates/releases/latest/download/SarabunPDF_Setup.exe</url>
   <changelog>https://github.com/9Warat/SarabunPDF-updates/blob/main/CHANGELOG.md</changelog>
   <mandatory>false</mandatory>
