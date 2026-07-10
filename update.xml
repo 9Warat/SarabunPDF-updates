@@ -2,7 +2,7 @@
 <!-- SarabunPDF update feed (AutoUpdater.NET). Bump <version> + <url> for each release.
      Served via GitHub Pages: https://9warat.github.io/SarabunPDF-updates/update.xml -->
 <item>
-  <version>3.6.1.0</version>
+  <version>3.6.2.0</version>
   <url>https://github.com/9Warat/SarabunPDF-updates/releases/latest/download/SarabunPDF_Setup.exe</url>
   <changelog>https://github.com/9Warat/SarabunPDF-updates/blob/main/CHANGELOG.md</changelog>
   <mandatory>false</mandatory>
