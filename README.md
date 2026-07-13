@@ -10,7 +10,7 @@ https://9warat.github.io/SarabunPDF-updates/update.xml
 
 > URL แบบ raw (`raw.githubusercontent.com/.../update.xml`) ยังใช้งานได้เป็น fallback แต่เคยเจอ HTTP 429 เมื่อหลายเครื่องใช้ IP เดียวกัน จึงย้ายค่าเริ่มต้นมาที่ Pages · ค่านี้อยู่ในไฟล์ `update.txt` ข้าง .exe (แก้ได้ หรือ override ด้วย env `SARABUNPDF_UPDATE_URL`)
 
-**เวอร์ชันล่าสุดบนฟีด: `3.7.1.0`**
+**เวอร์ชันล่าสุดบนฟีด: `4.0.0.0`**
 
 ## วิธีปล่อยเวอร์ชันใหม่
 1. Build ตัวติดตั้ง แล้วเปลี่ยนชื่อ asset ให้เป็น `SarabunPDF_Setup.exe` เป๊ะ (เพื่อให้ `releases/latest/download/...` ทำงาน)
